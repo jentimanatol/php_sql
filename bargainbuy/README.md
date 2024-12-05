@@ -1,7 +1,4 @@
-# Bargain & Buy Project
-
-## Introduction
-Welcome to the Bargain & Buy project! This is a simple e-commerce platform built using PHP and MySQL. The project demonstrates key features such as user authentication, order management, and data retrieval from a MySQL database.
+simple e-commerce platform built using PHP and MySQL. The project demonstrates key features such as user authentication, order management, and data retrieval from a MySQL database.
 
 ## Features
 - **User Authentication**: Secure login and registration for customers.
@@ -102,4 +99,3 @@ MySQL: Database management.
 HTML/CSS: Front-end structure and design.
 
 XAMPP: Local development environment.
-
