@@ -103,16 +103,3 @@ HTML/CSS: Front-end structure and design.
 
 XAMPP: Local development environment.
 
-Contributing
-Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
-
-License
-This project is licensed under the MIT License.
-
-Contact
-For any questions or feedback, please contact me at your.email@example.com.
-
-Acknowledgements
-Thanks to all who have contributed to this project.
-
-Special thanks to the PHP and MySQL communities for their valuable resources and tutorials.
