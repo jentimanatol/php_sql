@@ -33,9 +33,9 @@ Welcome to Bargain and Buy, a project aimed at providing a seamless experience f
 ## Screenshot
 ![Main Menu](Screenshot/MainMeniu.jpg)
 
-![](/Screenshot/Screenshot 2024-12-09 172952.jpg)
+![](/Screenshot/orderselectdate.jpg)
 
-![](/Screenshot/Screenshot 2024-12-09 212413.jpg)
+![](/Screenshot/searchOrderDetail.jpg)
 
 ## How to Use
 1. **Insert New Customer**: Click the "Insert new customer" button to add a new customer to the database.
