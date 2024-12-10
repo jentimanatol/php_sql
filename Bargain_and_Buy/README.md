@@ -1,4 +1,4 @@
-\# Bargain and Buy
+# Bargain and Buy
 
 ## Introduction
 Welcome to Bargain and Buy, a project aimed at providing a seamless experience for managing customer orders and product information. The main page greets returning users and offers various functionalities for creating, querying, and managing data.
@@ -29,6 +29,9 @@ Welcome to Bargain and Buy, a project aimed at providing a seamless experience f
 - **Show All Emails From Database**: List all customer emails.
 - **Show All Customer Details**: Retrieve detailed information about all customers.
 - **Show Count Select Date Orders**: Display the number of orders placed on a selected date.
+
+## Screenshot
+![Main Menu](Screenshot/MainMeniu.jpg)
 
 ## How to Use
 1. **Insert New Customer**: Click the "Insert new customer" button to add a new customer to the database.
