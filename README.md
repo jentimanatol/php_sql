@@ -1,4 +1,4 @@
-# Welcome to SQL Programming - Fall 2024
+# Welcome to SQL Programming - 
 
 Unlock the power of databases and become a master of SQL in this hands-on course! Explore the world of relational databases and learn the language that powers modern data management systems.
 
@@ -9,7 +9,6 @@ Unlock the power of databases and become a master of SQL in this hands-on course
 - **Course Name**: SQL Programming  
 - **Course Number**: CSC-236  
 - **Credits**: 3  
--
 - **Instructor**: Ali Azhari  
 - **Email**: [ali.azhari@bhcc.edu](mailto:ali.azhari@bhcc.edu)  
 
@@ -62,22 +61,6 @@ By the end of this course, you’ll be able to:
 
 ---
 
-## 📝 Evaluation Criteria
-
-Your path to success involves multiple milestones:
-
-| Component                   | Weight |
-|-----------------------------|--------|
-| Assignments                | 20%    |
-| Quizzes                    | 20%    |
-| Mid-term Exam/Project      | 20%    |
-| Final Exam/Project         | 20%    |
-| Database Project/Interview | 20%    |
-
-**Attendance**: Self-reported in Moodle. Missing quizzes or assignments without prior arrangements will result in a **zero**.
-
-
-
 ## 💡 Tips for Mastery
 
 - **Practice Daily**: Writing SQL is the best way to learn it.
@@ -106,3 +89,8 @@ Your path to success involves multiple milestones:
 
 **Embrace the challenge, code with curiosity, and master SQL one query at a time!**
 
+
+
+
+_Not protected by copyright, may be used for its intended purpose._  
+_Author: Anatolie Jentimir._
